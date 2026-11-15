@@ -1,0 +1,263 @@
+#EXTM3U x-tvg-url=httpepg.51zmt.top8000e1.xml.gz url-tvg=httpepg.51zmt.top8000e1.xml.gz
+#EXTINF-1 tvg-id=1 tvg-name=CCTV1 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV1.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000009320253000002939369index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-1
+http192.168.20.25140rtp239.49.8.199614fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=2 tvg-name=CCTV2 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV2.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000003592955000012435088index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-2
+http192.168.20.25140rtp239.49.8.509802fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=3 tvg-name=CCTV3 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV3.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209123267index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-3
+http192.168.20.25140rtp239.49.8.748000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=4 tvg-name=CCTV4 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV4.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000006470781000012435093index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-4
+http192.168.20.25140rtp239.49.8.519806fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=5 tvg-name=CCTV5 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV5.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209123269index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-5
+http192.168.20.25140rtp239.49.8.758000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=6 tvg-name=CCTV5+ tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV5+.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000002242213000002930093index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-5+
+http192.168.20.25140rtp239.49.8.189610fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=7 tvg-name=CCTV6 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV6.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209123271index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-6
+http192.168.20.25140rtp239.49.8.768000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=8 tvg-name=CCTV7 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV7.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000221903146index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-7
+http192.168.20.25140rtp239.49.0.1268000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=9 tvg-name=CCTV8 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV8.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209123273index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-8
+http192.168.20.25140rtp239.49.8.778000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=10 tvg-name=CCTV9 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV9.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000225334000012435113index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-9
+http192.168.20.25140rtp239.49.8.539814fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=11 tvg-name=CCTV10 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV10.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000632728000012435118index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-10
+http192.168.20.25140rtp239.49.8.549818fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=12 tvg-name=CCTV11 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV11.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000221903274index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-11
+http192.168.20.25140rtp239.49.0.1278000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=13 tvg-name=CCTV12 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV12.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000007793470000012435133index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-12
+http192.168.20.25140rtp239.49.8.559822fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=14 tvg-name=CCTV13 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV13.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000210913770index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-13
+http192.168.20.25140rtp239.49.8.1098000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=15 tvg-name=CCTV14 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV14.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000006921605000012435136index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-14
+http192.168.20.25140rtp239.49.8.569826fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=16 tvg-name=CCTV15 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV15.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000221903392index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-15
+http192.168.20.25140rtp239.49.0.1288000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1864 tvg-name=CCTV16 tvg-logo=httpslive.fanmingming.cntvCCTV16.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000214607844index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-16
+http192.168.20.25140rtp239.49.0.1098000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=17 tvg-name=CCTV17 tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV17.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000003101164000012435106index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-17
+http192.168.20.25140rtp239.49.8.529810fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=106 tvg-name=CCTV4K tvg-logo=httpepg.51zmt.top8000tb1CCTVCCTV4k.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000230656196index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CCTV-4K
+http192.168.20.25140rtp239.49.0.828000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png group-title=央视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000234408174index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},中国天气
+http192.168.20.25140rtp239.49.0.948000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=29 tvg-name=江苏卫视 tvg-logo=httpepg.51zmt.top8000tb1wsjiangsu.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238866524index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},江苏卫视 4K
+http192.168.20.25140rtp239.49.1.628000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=30 tvg-name=北京卫视 tvg-logo=httpepg.51zmt.top8000tb1wsbeijing.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000236887659index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},北京卫视 4K
+http192.168.20.25140rtp239.49.0.2538000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=31 tvg-name=东方卫视 tvg-logo=httpepg.51zmt.top8000tb1wsdongfang.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000239595557index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},东方卫视 4K
+http192.168.20.25140rtp239.49.1.698000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=28 tvg-name=浙江卫视 tvg-logo=httpepg.51zmt.top8000tb1wszhejiang.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000239595112index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},浙江卫视 4K
+http192.168.20.25140rtp239.49.1.638000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=38 tvg-name=山东卫视 tvg-logo=httpepg.51zmt.top8000tb1wsshandong.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000239595561index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},山东卫视 4K
+http192.168.20.25140rtp239.49.1.718000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=33 tvg-name=广东卫视 tvg-logo=httpepg.51zmt.top8000tb1wsguangdong.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238059928index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},广东卫视 4K
+http192.168.20.25140rtp239.49.1.268000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=34 tvg-name=深圳卫视 tvg-logo=httpepg.51zmt.top8000tb1wsshenzhen.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238060188index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},深圳卫视 4K
+http192.168.20.25140rtp239.49.1.288000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=56 tvg-name=四川卫视 tvg-logo=httpepg.51zmt.top8000tb1wssichuan.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000239595368index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},四川卫视 4K
+http192.168.20.25140rtp239.49.1.658000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=27 tvg-name=湖南卫视 tvg-logo=httpepg.51zmt.top8000tb1wshunan.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000239595494index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},湖南卫视 4K
+http192.168.20.25140rtp239.49.1.678000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=39 tvg-name=天津卫视 tvg-logo=httpepg.51zmt.top8000tb1wstianjin.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000003450360000008354987index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},天津卫视
+http192.168.20.25140rtp239.49.8.358620fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=45 tvg-name=河北卫视 tvg-logo=httpepg.51zmt.top8000tb1wshebei.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000005711463000112448179index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},河北卫视
+http192.168.20.25140rtp239.49.8.1148000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=47 tvg-name=河南卫视 tvg-logo=httpepg.51zmt.top8000tb1wshenan.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000208686825index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},河南卫视
+http192.168.20.25140rtp239.49.8.298000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=32 tvg-name=安徽卫视 tvg-logo=httpepg.51zmt.top8000tb1wsanhui.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000200182943index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},安徽卫视
+http192.168.20.25140rtp239.49.8.808000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=48 tvg-name=湖北卫视 tvg-logo=httpepg.51zmt.top8000tb1wshubei.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000009524643000005242909index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},湖北卫视
+http192.168.20.25140rtp239.49.8.89632fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=43 tvg-name=广西卫视 tvg-logo=httpepg.51zmt.top8000tb1wsguangxi.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000201885894index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},广西卫视
+http192.168.20.25140rtp239.49.8.108000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=50 tvg-name=江西卫视 tvg-logo=httpepg.51zmt.top8000tb1wsjiangxi.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000007199034000112448174index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},江西卫视
+http192.168.20.25140rtp239.49.8.1118000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=58 tvg-name=云南卫视 tvg-logo=httpepg.51zmt.top8000tb1wsyunnan.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000205417355index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},云南卫视
+http192.168.20.25140rtp239.49.0.1778000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=44 tvg-name=贵州卫视 tvg-logo=httpepg.51zmt.top8000tb1wsguizhou.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000005182668000016840460index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},贵州卫视
+http192.168.20.25140rtp239.49.8.498000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=40 tvg-name=重庆卫视 tvg-logo=httpepg.51zmt.top8000tb1wschongqing.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000004058277000012435141index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},重庆卫视
+http192.168.20.25140rtp239.49.8.579830fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=41 tvg-name=东南卫视 tvg-logo=httpepg.51zmt.top8000tb1wsdongnan.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000002578204000112448175index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},东南卫视
+http192.168.20.25140rtp239.49.8.1128000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=36 tvg-name=辽宁卫视 tvg-logo=httpepg.51zmt.top8000tb1wsliaoning.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000006541400000016840439index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},辽宁卫视
+http192.168.20.25140rtp239.49.8.488000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=51 tvg-name=吉林卫视 tvg-logo=httpepg.51zmt.top8000tb1wsjilin.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000009441308000112448176index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},吉林卫视
+http192.168.20.25140rtp239.49.8.1138000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=46 tvg-name=黑龙江卫视 tvg-logo=httpepg.51zmt.top8000tb1wsheilongjiang.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000003000000963231index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},黑龙江卫视
+http192.168.20.25140rtp239.49.8.149426fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=37 tvg-name=旅游卫视 tvg-logo=httpepg.51zmt.top8000tb1wslvyou.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000203203498index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},海南卫视
+http192.168.20.25140rtp239.49.8.838000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=53 tvg-name=宁夏卫视 tvg-logo=httpepg.51zmt.top8000tb1wsningxia.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238840805index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},宁夏卫视
+http192.168.20.25140rtp239.49.1.608000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=42 tvg-name=甘肃卫视 tvg-logo=httpepg.51zmt.top8000tb1wsgansu.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000228787558index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},甘肃卫视
+http192.168.20.25140rtp239.49.0.1728000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=57 tvg-name=新疆卫视 tvg-logo=httpepg.51zmt.top8000tb1wsxinjiang.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238840754index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},新疆卫视
+http192.168.20.25140rtp239.49.1.578000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=61 tvg-name=兵团卫视 tvg-logo=httpepg.51zmt.top8000tb1wsbingtuan.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238840759index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},兵团卫视
+http192.168.20.25140rtp239.49.1.588000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=52 tvg-name=内蒙古卫视 tvg-logo=httpepg.51zmt.top8000tb1wsneimeng.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000241508683index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},内蒙古卫视
+http192.168.20.25140rtp239.49.1.758000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=55 tvg-name=陕西卫视 tvg-logo=httpepg.51zmt.top8000tb1wsshanxi.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000004809461000114688138index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},陕西卫视
+http192.168.20.25140rtp239.49.1.748000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=71 tvg-name=西藏卫视 tvg-logo=httpepg.51zmt.top8000tb1wsxizang.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238836921index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},西藏卫视
+http192.168.20.25140rtp239.49.1.568000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=54 tvg-name=山西卫视 tvg-logo=httpepg.51zmt.top8000tb1wsshanxi_.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238527081index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},山西卫视
+http192.168.20.25140rtp239.49.0.678528fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=59 tvg-name=青海卫视 tvg-logo=httpepg.51zmt.top8000tb1wsqinghai.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000230654404index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},青海卫视
+http192.168.20.25140rtp239.49.0.698544fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=72 tvg-name=三沙卫视 tvg-logo=httpepg.51zmt.top8000tb1wssansha.png group-title=卫视 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000224975132index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},三沙卫视
+http192.168.20.25140rtp239.49.0.1678000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=68 tvg-name=厦门卫视 tvg-logo=httpepg.51zmt.top8000tb1wsxiamen.png group-title=卫视 catchup=append catchup-source=&Playseek={utcYmdHMS}-{utcendYmdHMS},厦门卫视
+http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000237510074index.m3u8Playtype=1
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2%E9%A2%91%E9%81%93.png group-title=江苏 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209332449index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},江苏教育
+http192.168.20.25140rtp239.49.8.1228000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=344 tvg-name=江苏城市 tvg-logo=httppix1.tvzhe.comimageslogochannelJSTV3JSTV3_140x140.png group-title=江苏 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209332311index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},江苏城市
+http192.168.20.25140rtp239.49.8.1078000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=345 tvg-name=江苏影视 tvg-logo=httppix1.tvzhe.comimageslogochannelJSTV4JSTV4_140x140.png group-title=江苏 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209332381index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},江苏影视
+http192.168.20.25140rtp239.49.8.1188000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httppix1.tvzhe.comimageslogochannelJSTV8JSTV8_140x140.png group-title=江苏 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209332385index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},江苏新闻
+http192.168.20.25140rtp239.49.8.1208000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=347 tvg-name=江苏休闲体育 tvg-logo=httpslive.fanmingming.cntv%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93.png group-title=江苏 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209332359index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},江苏体育休闲
+http192.168.20.25140rtp239.49.8.1178000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=351 tvg-name=江苏综艺 tvg-logo=httppix1.tvzhe.comimageslogochannelJSTV10JSTV10_140x140.png group-title=江苏 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209332355index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},江苏综艺
+http192.168.20.25140rtp239.49.8.1088000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png group-title=江苏 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000030000000303455index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},江苏国际
+http192.168.20.25140rtp239.49.1.818000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=348 tvg-name=优漫卡通 tvg-logo=httpepg.51zmt.top8000tb1qtyouman.png group-title=江苏 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209332383index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},优漫卡通
+http192.168.20.25140rtp239.49.8.1198000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png group-title=南京,南京新闻综合
+http192.168.20.25140rtp239.49.0.258192fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB.png group-title=南京,南京十八
+http192.168.20.25140rtp239.49.0.268200fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%8D%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png group-title=南京,南京影视
+http192.168.20.25140rtp239.49.0.248000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%8D%97%E4%BA%AC%E6%96%87%E6%97%85%E8%AE%B0%E5%BD%95.png group-title=南京,南京文旅记录
+http192.168.20.25140rtp239.49.0.388000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%8D%97%E4%BA%AC%E5%B0%91%E5%84%BF.png group-title=南京,南京少儿
+http192.168.20.25140rtp239.49.0.458000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E9%AB%98%E6%B7%B3%E6%96%B0%E9%97%BB.png group-title=南京,高淳新闻
+http192.168.20.25140rtp239.49.0.748000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%BE%90%E5%B7%9E1.png group-title=徐州,徐州1
+http192.168.20.25140rtp239.49.0.2038000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%BE%90%E5%B7%9E2.png group-title=徐州,徐州2
+http192.168.20.25140rtp239.49.0.1998000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%BE%90%E5%B7%9E3.png group-title=徐州,徐州3
+http192.168.20.25140rtp239.49.0.2118000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E9%82%B3%E5%B7%9E%E7%BB%BC%E5%90%88.png group-title=徐州,邳州综合
+http192.168.20.25140rtp239.49.0.1828000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E7%9D%A2%E5%AE%81%E7%BB%BC%E5%90%88.png group-title=徐州,睢宁综合
+http192.168.20.25140rtp239.49.0.2398000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E6%96%B0%E6%B2%821.png group-title=徐州,新沂1
+http192.168.20.25140rtp239.49.0.2388000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E6%B2%9B%E5%8E%BF%E7%BB%BC%E5%90%88.png group-title=徐州,沛县综合
+http192.168.20.25140rtp239.49.0.2148000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E8%8B%8F%E5%B7%9E5.png group-title=苏州 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201202005271212120000000000000001index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},苏州5
+http192.168.20.25140rtp239.49.8.1168000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E6%B3%B0%E5%B7%9E1.png group-title=泰州,泰州1
+http192.168.20.25140rtp239.49.0.2158000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E7%9B%90%E5%9F%8E-1.png group-title=盐城,盐城-1
+http192.168.20.25140rtp239.49.8.308000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%8D%97%E9%80%9A1.png group-title=南通 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000225857877index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},南通1
+http192.168.20.25140rtp239.49.0.2238000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%8D%97%E9%80%9A2.png group-title=南通 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000225859113index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},南通2
+http192.168.20.25140rtp239.49.0.2248000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%8D%97%E9%80%9A3.png group-title=南通 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000213373718index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},南通3
+http192.168.20.25140rtp239.49.0.1978000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E6%B7%AE%E5%AE%89%E7%BB%BC%E5%90%88.png group-title=淮安,淮安综合
+http192.168.20.25140rtp239.49.0.2048000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E6%B7%AE%E5%AE%89%E5%85%AC%E5%85%B1.png group-title=淮安,淮安公共
+http192.168.20.25140rtp239.49.0.1818000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E6%B7%AE%E5%AE%89%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90.png group-title=淮安,淮安影视娱乐
+http192.168.20.25140rtp239.49.0.1928000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E6%B3%97%E6%B4%AA%E7%BB%BC%E5%90%88.png group-title=宿迁,泗洪综合
+http192.168.20.25140rtp239.49.0.1958000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E4%B8%9C%E6%B5%B7%E7%BB%BC%E5%90%88.png group-title=连云港,东海综合
+http192.168.20.25140rtp239.49.0.1218000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E8%B5%A3%E6%A6%86%E7%BB%BC%E5%90%88.png group-title=连云港,赣榆综合
+http192.168.20.25140rtp239.49.0.2418000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%B8%B8%E5%B7%9E%E7%BB%BC%E5%90%88.png group-title=常州,常州综合
+http192.168.20.25140rtp239.49.0.2219594fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%B8%B8%E5%B7%9E%E9%83%BD%E5%B8%82.png group-title=常州,常州都市
+http192.168.20.25140rtp239.49.0.2209590fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%B8%B8%E5%B7%9E%E7%94%9F%E6%B4%BB.png group-title=常州,常州生活
+http192.168.20.25140rtp239.49.0.2199586fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%B8%B8%E5%B7%9E%E5%85%AC%E5%85%B1.png group-title=常州,常州公共
+http192.168.20.25140rtp239.49.0.2189582fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E9%95%87%E6%B1%9F%E6%95%99%E8%82%B2%E6%B0%91%E7%94%9F.png group-title=镇江,镇江教育民生
+http192.168.20.25140rtp239.49.1.738000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=73 tvg-name=中国教育1台 tvg-logo=httpepg.51zmt.top8000tb1qt中国教育1台.png group-title=CETV catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000005619547000112448210index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CETV-1
+http192.168.20.25140rtp239.49.8.1158000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=74 tvg-name=中国教育2台 tvg-logo=httpepg.51zmt.top8000tb1qt中国教育2台.png group-title=CETV catchup=append catchup-source=&Playseek={utcYmdHMS}-{utcendYmdHMS},CETV-2
+http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000003000000000161874index.m3u8Playtype=1
+#EXTINF-1 tvg-id=1860 tvg-name=中国教育4台 tvg-logo=httpslive.fanmingming.cntv%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png group-title=CETV catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000221903067index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CETV-4
+http192.168.20.25140rtp239.49.0.1258000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1277 tvg-name=欢笑剧场 tvg-logo=httpslive.fanmingming.cntv%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png group-title=其他,欢笑剧场4K
+http192.168.20.25140rtp239.49.8.1068000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1283 tvg-name=游戏风云 tvg-logo=httpslive.fanmingming.cntv%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png group-title=其他,游戏风云
+http192.168.20.25140rtp239.49.8.418012fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=67 tvg-name=卡酷动画 tvg-logo=httpepg.51zmt.top8000tb1qtkaku.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000237510056index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},卡酷少儿
+http192.168.20.25140rtp239.49.0.1488000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=69 tvg-name=金鹰卡通 tvg-logo=httpepg.51zmt.top8000tb1qtjinyingkatong.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000208194815index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},金鹰卡通
+http192.168.20.25140rtp239.49.8.338000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1324 tvg-name=金鹰纪实 tvg-logo=httpepg.51zmt.top8000tb1wsjinyingjishi.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000003000116631476index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},金鹰纪实
+http192.168.20.25140rtp239.49.8.798000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1684 tvg-name=快乐垂钓 tvg-logo=httpepg.51zmt.top8000tb1qtKUAILECHUIDIAO.jpg group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000008710718000016840501index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},快乐垂钓
+http192.168.20.25140rtp239.49.0.1148000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E8%8C%B6%E9%A2%91%E9%81%93.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000008850253000112448121index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},茶频道
+http192.168.20.25140rtp239.49.0.1468000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000237509828index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},山东教育卫视
+http192.168.20.25140rtp239.49.0.2528000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1645 tvg-name=梨园 tvg-logo=httpepg.51zmt.top8000tb1qtCCTVPAYFEE20.jpg group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000215268723index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},梨园频道
+http192.168.20.25140rtp239.49.8.1938000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1675 tvg-name=武术世界 tvg-logo=httpepg.51zmt.top8000tb1qtWUSHUSHIJIE.jpg group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000215268761index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},武术世界
+http192.168.20.25140rtp239.49.0.2058000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1680 tvg-name=文物宝库 tvg-logo=httpepg.51zmt.top8000tb1qtWENWUBAOKU.jpg group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000215268809index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},文物宝库
+http192.168.20.25140rtp239.49.0.2098000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1282 tvg-name=都市剧场 tvg-logo=httpepg.51zmt.top8000tb1qtdoushijuchang.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000234615576index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},都市剧场
+http192.168.20.25140rtp239.49.0.998000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1279 tvg-name=动漫秀场 tvg-logo=httpslive.fanmingming.cntv%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png group-title=其他,动漫秀场
+http192.168.20.25140rtp239.49.8.438028fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E4%B9%90%E6%B8%B8.png group-title=其他,乐游
+http192.168.20.25140rtp239.49.8.448036fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1281 tvg-name=生活时尚 tvg-logo=httpepg.51zmt.top8000tb1qtshenghuoshishang.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000234615570index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},生活时尚
+http192.168.20.25140rtp239.49.0.978000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1273 tvg-name=法治天地 tvg-logo=httppix1.tvzhe.comimageslogochannelSITV3SITV3_140x140.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000234615514index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},法治天地
+http192.168.20.25140rtp239.49.0.968000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1712 tvg-name=财富天下 tvg-logo=httpslive.fanmingming.cntv%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000241508693index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},财富天下
+http192.168.20.25140rtp239.49.0.1669322fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1258 tvg-name=东方财经 tvg-logo=httppix1.tvzhe.comimageslogochannelSITV14SITV14_140x140.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000234615503index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},东方财经
+http192.168.20.25140rtp239.49.0.958000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1695 tvg-name=四海钓鱼 tvg-logo=httpslive.fanmingming.cntv%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png group-title=其他,四海钓鱼
+http192.168.20.25140rtp239.49.1.808000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1667 tvg-name=天元围棋 tvg-logo=httpslive.fanmingming.cntv%E5%A4%A9%E5%85%83%E5%9B%B4%E6%A3%8B.png group-title=其他,天元围棋
+http192.168.20.25140rtp239.49.1.798000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=1685 tvg-name=书画频道 tvg-logo=httpslive.fanmingming.cntv%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93.png group-title=其他 catchup=append catchup-source=&Playseek={utcYmdHMS}-{utcendYmdHMS},书画频道
+http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000009108553000016840503index.m3u8Playtype=1
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%A5%BD%E4%BA%AB%E8%B4%AD%E7%89%A9.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000209332447index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},好享购物
+http192.168.20.25140rtp239.49.8.1218000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E8%81%9A%E9%B2%A8%E7%8E%AF%E7%90%83%E7%B2%BE%E9%80%89.png group-title=其他 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000003291839000116411950index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},聚鲨环球精选
+http192.168.20.25140rtp239.49.8.1238000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png group-title=其他 catchup=append catchup-source=&Playseek={utcYmdHMS}-{utcendYmdHMS},家有购物
+http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000231356120index.m3u8Playtype=1
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E4%B8%AD%E8%A7%86%E8%B4%AD%E7%89%A9.png group-title=其他 catchup=append catchup-source=&Playseek={utcYmdHMS}-{utcendYmdHMS},中视购物
+http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000237273656index.m3u8Playtype=1
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png group-title=其他 catchup=append catchup-source=&Playseek={utcYmdHMS}-{utcendYmdHMS},央广购物
+http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000218790010index.m3u8Playtype=1
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E4%BC%98%E8%B4%AD%E7%89%A9.png group-title=其他 catchup=append catchup-source=&Playseek={utcYmdHMS}-{utcendYmdHMS},优购物
+http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000231268197index.m3u8Playtype=1
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png group-title=限免 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000235977903index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},睛彩竞技
+http192.168.20.25140rtp239.49.8.398000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png group-title=限免 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000235977965index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},睛彩篮球
+http192.168.20.25140rtp239.49.8.428000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E7%9D%9B%E5%BD%A9%E9%9D%92%E5%B0%91.png group-title=限免 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000235978041index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},睛彩青少
+http192.168.20.25140rtp239.49.8.468000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpslive.fanmingming.cntv%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png group-title=限免 catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000235978099index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},睛彩广场舞
+http192.168.20.25140rtp239.49.8.648000fcc=180.100.72.18515970
+#EXTINF-1 tvg-id=20 tvg-name=CGTN tvg-logo=httpepg.51zmt.top8000tb1CCTVcgtn.png group-title=CGTN catchup=append catchup-source=&Playseek={utcYmdHMS}-{utcendYmdHMS},CGTN
+http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000003000000000161812index.m3u8Playtype=1
+#EXTINF-1 tvg-name=noepg tvg-logo=httpepg.51zmt.top8000tb1CCTVcgtn.png group-title=CGTN catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000212371855index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CGTN俄语
+http192.168.20.25140rtp239.49.0.1118000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpepg.51zmt.top8000tb1CCTVcgtn.png group-title=CGTN catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238174795index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CGTN法语
+http192.168.20.25140rtp239.49.1.318000fcc=180.100.72.18515970
+#EXTINF-1 tvg-name=noepg tvg-logo=httpepg.51zmt.top8000tb1CCTVcgtn.png group-title=CGTN catchup=default catchup-source=http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238174665index.m3u8Playtype=1&Playseek={utcYmdHMS}-{utcendYmdHMS},CGTN西班牙语
+http192.168.20.25140httpgslb.itv.jsinfo.net60600000000201000000000000000000000238174665index.m3u8Playtype=1
